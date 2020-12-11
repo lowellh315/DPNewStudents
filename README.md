@@ -4,5 +4,5 @@ This repository has the notebooks for new students to learn about pandas, the st
 Download the dataset from https://studentlife.cs.dartmouth.edu/dataset.html before running this.
 
 Follow the tutorials in the following order: 
-1. Basics
+1. Intro
 2. Conversation 
