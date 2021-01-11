@@ -6,5 +6,6 @@ Download the dataset from https://studentlife.cs.dartmouth.edu/dataset.html befo
 Follow the tutorials in the following order: 
 1. Intro
 2. Conversation 
-3. Audio/Partying
-4. GPA Predictor
+3. Matplotlib/Seaborn demo
+4. Audio/Partying
+5. GPA Predictor
